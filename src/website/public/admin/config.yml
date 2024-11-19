@@ -517,6 +517,11 @@ collections:
         file: 'src/website/src/pages/eu/components/media/media-container/docs/usage.md'
         fields:
           - { label: Body, name: body, widget: markdown }
+      - label: 'Mega Menu'
+        name: 'eu_mega_menu'
+        file: 'src/website/src/pages/ec/components/navigation/mega-menu/docs/usage.md'
+        fields:
+          - { label: Body, name: body, widget: markdown }
       - label: 'Menu'
         name: 'eu_menu'
         file: 'src/website/src/pages/eu/components/navigation/menu/docs/usage.md'
